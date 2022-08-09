@@ -1,0 +1,11 @@
+release/Create_the_connection.o
+release/chesses.o
+release/error_surrender.o
+release/main.o
+release/mainwindow.o
+release/server.o
+release/qrc_myrc.o
+release/moc_Create_the_connection.o
+release/moc_error_surrender.o
+release/moc_mainwindow.o
+release/moc_server.o
