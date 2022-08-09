@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>png/background.jpg</file>
+        <file>png/bdilei.png</file>
+        <file>png/bgongbing.png</file>
+        <file>png/bjun.png</file>
+        <file>png/bjunqi.png</file>
+        <file>png/blian.png</file>
+        <file>png/blv.png</file>
+        <file>png/board.png</file>
+        <file>png/board2.png</file>
+        <file>png/bpai.png</file>
+        <file>png/bshi.png</file>
+        <file>png/bsiling.png</file>
+        <file>png/btuan.png</file>
+        <file>png/bying.png</file>
+        <file>png/bzha.png</file>
+        <file>png/clearboard.png</file>
+        <file>png/clearxingying.png</file>
+        <file>png/kong.png</file>
+        <file>png/notknown.png</file>
+        <file>png/rdilei.png</file>
+        <file>png/rgongbing.png</file>
+        <file>png/rjun.png</file>
+        <file>png/rjunqi.png</file>
+        <file>png/rlian.png</file>
+        <file>png/rlv.png</file>
+        <file>png/rpai.png</file>
+        <file>png/rshi.png</file>
+        <file>png/rsiling.png</file>
+        <file>png/rtuan.png</file>
+        <file>png/rying.png</file>
+        <file>png/rzha.png</file>
+        <file>png/highlight.png</file>
+        <file>abc.ico</file>
+    </qresource>
+</RCC>
